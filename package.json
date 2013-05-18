@@ -1,0 +1,25 @@
+{
+  "name": "gen-uuid",
+  "version": "0.0.1",
+  "author": "David Brockman Smoliansky",
+  "description": "CLI to generate v1 and v4 UUIDs",
+  "preferGlobal": true,
+  "bin": {
+    "gen-uuid": "./bin/gen-uuid"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/dbrockman/gen-uuid.git"
+  },
+  "keywords": [
+    "cli",
+    "uuid"
+  ],
+  "dependencies": {
+    "commander": "~1.1.1",
+    "uuid": "~1.4.1"
+  },
+  "engines": {
+    "node": ">= 0.6.x"
+  }
+}
