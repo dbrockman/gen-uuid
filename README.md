@@ -1,5 +1,7 @@
 # gen-uuid
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/dbrockman/gen-uuid.svg)](https://greenkeeper.io/)
+
 Generate RFC4122 version 1 or version 4 UUIDs using [node-uuid](https://github.com/shtylman/node-uuid)
 
 ## Installation
